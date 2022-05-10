@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lab 09 - Image Omelko</string>
+    <string name="btnCopy">Copy</string>
+    <string name="btnInvert">Invert colors</string>
+    <string name="btnOpenFile">Open file</string>
+    <string name="btnGray">Grayscale</string>
+    <string name="btnBW">Black and white</string>
+    <string name="btnRX">Reverse X</string>
+    <string name="btnRY">Reverse Y</string>
+    <string name="btnContrast">Contrast</string>
+    <string name="btnLightening">Lightening</string>
+</resources>
